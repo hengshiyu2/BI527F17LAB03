@@ -1,1 +1,3 @@
-print("fadf")
+
+print("cool")
+print("hi ")
